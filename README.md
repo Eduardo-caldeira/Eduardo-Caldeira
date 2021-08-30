@@ -19,4 +19,5 @@ Here are some ideas to get you started:
   <img height = "160em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Caldeira&layout=compact&langs_count=16&theme=tokyonight" />
   <img src = "https://komarev.com/ghpvc/?username=Eduardo-Caldeira&color=green" alt = "Eduardo-Caldeira" /> 
 </div>
+
 ![Snake animation](https://github.com/Eduardo-Caldeira/Eduardo-Caldeira/blob/output/github-contribution-grid-snake.svg)
