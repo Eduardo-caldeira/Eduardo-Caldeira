@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div>
   <img height = "180em" width = "400em" src = "https://github-readme-stats.vercel.app/api?username=Eduardo-Caldeira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height = "165em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Caldeira&layout=compact&langs_count=16&theme=tokyonight" />
+  <img height = "160em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Caldeira&layout=compact&langs_count=16&theme=tokyonight" />
   <img src = "https://komarev.com/ghpvc/?username=Eduardo-Caldeira&color=green" alt = "Eduardo-Caldeira" /> 
 </div>
 ![Snake animation](https://github.com/Eduardo-Caldeira/Eduardo-Caldeira/blob/output/github-contribution-grid-snake.svg)
