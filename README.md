@@ -43,4 +43,5 @@ Here are some ideas to get you started:
   <img height = "100px" width = "100px" src="images/linkedin.png">
 </div>
 -->
+
 ![Snake animation](https://github.com/Eduardo-Caldeira/Eduardo-Caldeira/blob/output/github-contribution-grid-snake.svg)
