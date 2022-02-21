@@ -20,4 +20,8 @@ Here are some ideas to get you started:
   <img src = "https://komarev.com/ghpvc/?username=Eduardo-Caldeira&color=blue" alt = "Eduardo-Caldeira" /> 
 </div>
 
+<div>
+  <img src="../images/linkedin.png">
+</div>
+
 ![Snake animation](https://github.com/Eduardo-Caldeira/Eduardo-Caldeira/blob/output/github-contribution-grid-snake.svg)
