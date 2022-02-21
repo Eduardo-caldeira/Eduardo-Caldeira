@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<head>
+
   <style>
     @keyframes semiBounce{
       from {
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
       animation-duration: 1s;
     }
   </style>
-</head>
+
 <div>
   <img height = "160em" width = "400em" src = "https://github-readme-stats.vercel.app/api?username=Eduardo-Caldeira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height = "160em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Caldeira&layout=compact&langs_count=16&theme=tokyonight" />
