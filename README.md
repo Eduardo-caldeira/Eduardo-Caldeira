@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <img src="../images/linkedin.png">
+  <img src="images/linkedin.png">
 </div>
 
 ![Snake animation](https://github.com/Eduardo-Caldeira/Eduardo-Caldeira/blob/output/github-contribution-grid-snake.svg)
